@@ -9,7 +9,7 @@ using Person.Annotations;
 
 #endregion
 
-namespace Person
+namespace wcj
 {
     public class Person : INotifyPropertyChanged
     {
