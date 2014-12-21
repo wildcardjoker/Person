@@ -1,5 +1,7 @@
-﻿// Created: 2014-12-21
-// Last Modified: 2014-12-21-9:39 PM
+﻿// Copyright (c) 2014 WildCardJoker
+// Licensed under the MIT License: http://opensource.org/licenses/MIT
+// Created: 2014-12-21
+// Last Modified: 2014-12-21-9:58 PM
 
 #region Using Directives
 
